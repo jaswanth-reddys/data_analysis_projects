@@ -90,24 +90,4 @@ The **United Kingdom** was the dominant market:
 
 The analysis shows that the **United Kingdom was the company's strongest market**, contributing approximately 81.5% of total sales. A small group of high-value and frequent customers contributed significantly to overall revenue, while products such as **REGENCY CAKESTAND 3 TIER** and **WORLD WAR 2 GLIDERS ASSTD DESIGNS** performed particularly well. Sales also increased significantly toward the end of 2011, with **November 2011** recording the highest monthly revenue.
 
----
 
-## 🛠️ Technologies Used
-
-- **Python**
-- **Pandas**
-- **Jupyter Notebook**
-- **Matplotlib**
-- **Seaborn**
-
----
-
-## 📁 Project Structure
-
-```text
-E-Commerce-Sales-Analysis/
-│
-├── E_Commerce_Sales_Analysis_using_Pandas.ipynb
-├── README.md
-└── dataset/
-    └── Online_Retail.csv
