@@ -14,7 +14,6 @@ This project analyzes an e-commerce transaction dataset using **Python and Panda
 | **Source** | Kaggle |
 | **Original Dataset Size** | 541,909 rows × 8 columns |
 | **Time Period** | 1 December 2010 – 9 December 2011 |
-| **Business Type** | UK-based non-store online retailer |
 | **Original Columns** | 8 |
 | **Analysis Tool** | Pandas |
 
