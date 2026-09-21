@@ -1,10 +1,10 @@
-# 🏦 Banking Analytics & Power BI Dashboard
+# Banking Analytics & Power BI Dashboard
 
 An end-to-end banking data analysis project designed to evaluate customer profiles, credit exposures, deposit trends, and account balances. The project combines **Python** for exploratory data analysis, **SQL** for relational querying, and **Power BI & DAX** to deliver an interactive business intelligence solution.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 * **Data Processing & Analysis:** Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`)
 * **Database Management:** SQL / MySQL
@@ -13,7 +13,7 @@ An end-to-end banking data analysis project designed to evaluate customer profil
 
 ---
 
-## 📊 Project Workflow & Key Analysis
+## Project Workflow & Key Analysis
 
 1. **Data Cleaning & Preprocessing:**
    * Handled missing values, standardized data types, and prepared clean relational tables.
@@ -28,7 +28,7 @@ An end-to-end banking data analysis project designed to evaluate customer profil
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 * **Target Loan Segment:** **Medium-income customers** account for the highest total loan volume in the analyzed dataset, representing a primary growth driver.
 * **Deposit Correlations:** Bank Deposits exhibit a strong positive correlation with:
@@ -38,7 +38,7 @@ An end-to-end banking data analysis project designed to evaluate customer profil
 
 ---
 
-## 📈 Power BI Dashboard Overview
+## Power BI Dashboard Overview
 
 The interactive Power BI report (`Banking_Dashboard.pbix`) is structured into four targeted views:
 
@@ -46,9 +46,5 @@ The interactive Power BI report (`Banking_Dashboard.pbix`) is structured into fo
 2. **Loan Analysis View:** Granular breakdown of loan distribution by income band, customer risk profile, and loan type.
 3. **Deposit Analysis View:** Deep-dive into savings vs. checking behavior and liquidity patterns.
 4. **Summary View:** Executive insights, correlation matrix summary, and cross-filter demographic breakdowns.
-
-
-
-├── Banking_Dashboard.pbix     # Interactive Power BI Dashboard file
-├── Banking Report.docx        # Detailed project documentation and final report
+king_Dashboard.pbix     # Interactive PDetailed project documentation and final report
 └── README.md                  # Project overview and technical summary
