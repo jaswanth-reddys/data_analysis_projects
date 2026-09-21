@@ -46,5 +46,3 @@ The interactive Power BI report (`Banking_Dashboard.pbix`) is structured into fo
 2. **Loan Analysis View:** Granular breakdown of loan distribution by income band, customer risk profile, and loan type.
 3. **Deposit Analysis View:** Deep-dive into savings vs. checking behavior and liquidity patterns.
 4. **Summary View:** Executive insights, correlation matrix summary, and cross-filter demographic breakdowns.
-king_Dashboard.pbix     # Interactive PDetailed project documentation and final report
-└── README.md                  # Project overview and technical summary
