@@ -3,23 +3,6 @@
 ## 📌 Overview
 This project focuses on analyzing vendor performance based on sales data. It involves data ingestion, cleaning, exploratory data analysis (EDA), automation of summary generation, and dashboard development using Power BI. The project concludes with a comprehensive report containing actionable insights.
 
-## 📂 Project Structure
-```
-├── data/
-│   └── vendor_sales_summary.csv
-├── notebooks/
-│   ├── Exploratory Data Analysis.ipynb
-│   └── Vendor Performance Analysis.ipynb
-├── scripts/
-│   ├── get_vendor_summary.py
-│   └── ingestion_db.py
-├── dashboard/
-│   └── vendor_performance.pbix
-├── reports/
-│   └── Vendor Performance Report.pdf
-└── README.md
-```
-
 ## 🛠️ Tech Stack
 - **Languages**: Python (Pandas, Matplotlib, Seaborn)
 - **Tools**: Jupyter Notebook, Power BI, Excel
@@ -32,7 +15,7 @@ This project focuses on analyzing vendor performance based on sales data. It inv
 - Interactive and visually rich dashboard built using Power BI
 - Finalized insights compiled in a professional PDF report
 
-## 🚀 How to Run
+## 🚀 How to see my Work 
 1. Clone the repository
 2. Open Jupyter Notebook and run EDA and analysis notebooks in `/notebooks`
 3. Use `get_vendor_summary.py` to generate vendor summary from data
@@ -45,4 +28,4 @@ This project focuses on analyzing vendor performance based on sales data. It inv
 - Final insights PDF report
 
 ## 📬 Contact
-For queries or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/hrishit-b-5188951b6/).
+For queries or collaboration, feel free to connect via [jaswanthreddy2028116@gmail.com].
